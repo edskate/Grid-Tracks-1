@@ -1,0 +1,11 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+  }
+  .wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+text-align: center
+    ;
+    box-shadow: 2px 3px 4px ;
+  }
